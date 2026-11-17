@@ -942,7 +942,7 @@ li {
   column-count: 1;
 }
 
-.full-width._2-col {
+.full-width._2-col, .full-width._2col {
   column-count: 2;
 }
 
